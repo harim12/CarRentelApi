@@ -46,11 +46,3 @@ Before running the application, make sure you have the following prerequisites i
 - **POST /cars/{registration}/rentals:** Rent a car.
 - **POST /cars/{registration}/returns:** Return a rented car.
 
-## Contributing
-
-Feel free to contribute by opening issues or pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
